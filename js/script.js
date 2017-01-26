@@ -7,7 +7,7 @@ var userInputNumber = 0;
 var exit = false;
 
 
-console.log('Bienvenue dans le jeu de  "Mini Deviette". Vous devez trouver le nombre mystère compris entre 1 - 100.\nBonne chance !');
+console.log('Bienvenue dans le jeu de  "Mini Devinette". Vous devez trouver le nombre mystère compris entre 1 - 100.\nBonne chance !');
 while(!exit)
 {
     userInputNumber = Number(prompt('Entrez un nombre'));
